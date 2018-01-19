@@ -1,0 +1,25 @@
+{
+  "name": "insta-nodejs_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amit-07/insta-node-app.git"
+  },
+  "author": "Amit Dash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amit-07/insta-node-app/issues"
+  },
+  "homepage": "https://github.com/amit-07/insta-node-app#readme",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "instagram-node": "^0.5.8"
+  }
+}
